@@ -1,1 +1,1 @@
-platformio run -v 
+platformio run "$@"
